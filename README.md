@@ -1,2 +1,3 @@
 # pdf2epub
-The only solution to keep 100% same layout from pdf to epub
+我有一种绝妙的把PDF完全保留格式和清晰度转化为Epub并且完全符合Epub3标准的办法，只是这里空间太小写不下  
+先占个坑，在写了在写了  
