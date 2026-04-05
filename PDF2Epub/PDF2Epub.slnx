@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Backends/" />
+  <Folder Name="/Tools/">
+    <Project Path="../../../../../../../../DevEnv/pdf2epub/PDF2Epub/Tools/FetchConverter/FetchConverter.csproj" />
+  </Folder>
+  <Project Path="../../../../../../../../DevEnv/pdf2epub/PDF2Epub/PDF2EpubCLI/PDF2EpubCLI.csproj" />
+  <Project Path="../../../../../../../../DevEnv/pdf2epub/PDF2Epub/PDF2EpubCore/PDF2EpubCore.csproj" />
+</Solution>
